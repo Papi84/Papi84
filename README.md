@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Building 
 - 🌱 I’m currently learning ...2nd year Computer science
 - 💞️ I’m looking to collaborate on ...FPGAs
-- 📫 How to reach me ...stevegoharder@gmail.com, wagahangwa@outlook.com
+- 📫 How to reach me ...stevegoharder@gmail.com
 - 😄 Pronouns: ...Gahangwa
 - ⚡ Fun fact: ...
 
