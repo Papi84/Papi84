@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Papi84
 - 👀 I’m interested in ...Building 
-- 🌱 I’m currently learning ...React.js
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...2nd year Computer science
+- 💞️ I’m looking to collaborate on ...FPGAs
 - 📫 How to reach me ...stevegoharder@gmail.com, wagahangwa@outlook.com
-- 😄 Pronouns: ...Karangwa
+- 😄 Pronouns: ...Gahangwa
 - ⚡ Fun fact: ...
 
 <!---
